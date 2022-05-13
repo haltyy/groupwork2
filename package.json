@@ -1,0 +1,9 @@
+{
+    "name": "course-work-2",
+    "author": "David Adeshina",
+    "private": true,
+    "version": "0.2.0",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
